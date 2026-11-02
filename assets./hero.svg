@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img"><title>Mohit Kattungal — GitHub profile</title>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b16"/><stop offset=".58" stop-color="#101a35"/><stop offset="1" stop-color="#211443"/>
+  </linearGradient>
+  <linearGradient id="nameGradient" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5eead4"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  </linearGradient>
+  <linearGradient id="barGradient" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#8b5cf6"/>
+  </linearGradient>
+  <pattern id="gridPattern" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+  </pattern>
+  <clipPath id="heroClip"><rect width="1200" height="390" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#heroClip)">
+  <rect width="1200" height="390" fill="url(#background)"/>
+  <rect width="1200" height="390" fill="url(#gridPattern)"/>
+  <circle cx="1080" cy="35" r="220" fill="#2dd4bf" opacity=".08"/>
+  <circle cx="80" cy="390" r="250" fill="#8b5cf6" opacity=".10"/>
+  <text x="64" y="78" font-family="Consolas, Courier New, monospace" font-size="15" letter-spacing="3" fill="#2dd4bf">// HELLO WORLD, I'M</text>
+  <text x="60" y="158" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="61" font-weight="800" fill="url(#nameGradient)">Mohit Kattungal</text>
+  <text x="64" y="207" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="25" font-weight="600" fill="#e2e8f0">Data Analyst | Data Science Student</text>
+  <text x="64" y="244" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#94a3b8">Turning raw data into clear insights and useful decisions.</text>
+  <rect x="64" y="266" width="83" height="34" rx="17" fill="#2dd4bf" fill-opacity=".10" stroke="#2dd4bf" stroke-opacity=".55"/><text x="105.5" y="288" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="14" font-weight="600" fill="#2dd4bf">Python</text><rect x="157" y="266" width="68" height="34" rx="17" fill="#38bdf8" fill-opacity=".10" stroke="#38bdf8" stroke-opacity=".55"/><text x="191.0" y="288" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="14" font-weight="600" fill="#38bdf8">SQL</text><rect x="235" y="266" width="101" height="34" rx="17" fill="#fbbf24" fill-opacity=".10" stroke="#fbbf24" stroke-opacity=".55"/><text x="285.5" y="288" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="14" font-weight="600" fill="#fbbf24">Power BI</text><rect x="346" y="266" width="83" height="34" rx="17" fill="#8b5cf6" fill-opacity=".10" stroke="#8b5cf6" stroke-opacity=".55"/><text x="387.5" y="288" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="14" font-weight="600" fill="#8b5cf6">Pandas</text>
+  <rect x="64" y="326" width="350" height="38" rx="19" fill="#22c55e" fill-opacity=".10" stroke="#22c55e" stroke-opacity=".55"/>
+  <circle cx="86" cy="345" r="5" fill="#22c55e"/>
+  <text x="104" y="351" font-family="Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#e2e8f0">Open to Data Analyst internships</text>
+  <rect x="770" y="55" width="390" height="290" rx="20" fill="#0d1426" fill-opacity=".94" stroke="#263451"/>
+  <circle cx="800" cy="83" r="5" fill="#f472b6"/><circle cx="818" cy="83" r="5" fill="#fbbf24"/><circle cx="836" cy="83" r="5" fill="#22c55e"/>
+  <text x="1133" y="88" text-anchor="end" font-family="Consolas, Courier New, monospace" font-size="12" fill="#94a3b8">analytics_overview</text>
+  <line x1="770" x2="1160" y1="105" y2="105" stroke="#263451"/>
+  <line x1="795" x2="1135" y1="130" y2="130" stroke="#ffffff" stroke-opacity=".08"/><line x1="795" x2="1135" y1="172" y2="172" stroke="#ffffff" stroke-opacity=".08"/><line x1="795" x2="1135" y1="214" y2="214" stroke="#ffffff" stroke-opacity=".08"/><line x1="795" x2="1135" y1="256" y2="256" stroke="#ffffff" stroke-opacity=".08"/><line x1="795" x2="1135" y1="300" y2="300" stroke="#ffffff" stroke-opacity=".08"/>
+  <rect x="826" y="246" width="22" height="54" rx="6" fill="url(#barGradient)" opacity="0.68"/><rect x="860" y="217" width="22" height="83" rx="6" fill="url(#barGradient)" opacity="0.72"/><rect x="894" y="232" width="22" height="68" rx="6" fill="url(#barGradient)" opacity="0.75"/><rect x="928" y="188" width="22" height="112" rx="6" fill="url(#barGradient)" opacity="0.79"/><rect x="962" y="204" width="22" height="96" rx="6" fill="url(#barGradient)" opacity="0.82"/><rect x="996" y="161" width="22" height="139" rx="6" fill="url(#barGradient)" opacity="0.86"/><rect x="1030" y="179" width="22" height="121" rx="6" fill="url(#barGradient)" opacity="0.89"/><rect x="1064" y="134" width="22" height="166" rx="6" fill="url(#barGradient)" opacity="0.93"/>
+  <polyline points="837,224 871,195 905,210 939,166 973,182 1007,139 1041,157 1075,112" fill="none" stroke="#f472b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="837" cy="224" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="871" cy="195" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="905" cy="210" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="939" cy="166" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="973" cy="182" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="1007" cy="139" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="1041" cy="157" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/><circle cx="1075" cy="112" r="4" fill="#f472b6" stroke="#0d1426" stroke-width="2"/>
+  <text x="790" y="328" font-family="Consolas, Courier New, monospace" font-size="10" fill="#94a3b8">DATA  ·  ANALYSIS  ·  INSIGHTS</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="389" rx="24" fill="none" stroke="#263451"/>
+</svg>
